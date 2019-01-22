@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Coty Condry",
+    "email": "ccondry@cisco.com"
+  },
   "license": "ISC",
   "dependencies": {
     "@duosecurity/duo_web": "^1.0.4",
