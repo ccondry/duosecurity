@@ -1,0 +1,19 @@
+{
+  "name": "duosecurity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@duosecurity/duo_web": "^1.0.4",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "query-string": "^6.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
