@@ -12,7 +12,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@duosecurity/duo_web": "^1.0.4",
     "dotenv": "^6.2.0",
     "moment": "^2.24.0",
     "query-string": "^6.2.0",
