@@ -40,7 +40,7 @@ module.exports = function ({
     username,
     factor,
     ipaddr,
-    async: async === true ? 1 : undefined,
+    async: async ? 1 : undefined,
     device,
     type,
     display_username: displayUsername,
