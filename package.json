@@ -10,6 +10,10 @@
     "name": "Coty Condry",
     "email": "ccondry@cisco.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ccondry/duosecurity.git"
+  },
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
