@@ -4,4 +4,7 @@ module.exports = {
   ping: require('./models/ping'),
   check: require('./models/check'),
   logo: require('./models/logo'),
+  preauth: require('./models/preauth'),
+  enroll: require('./models/enroll'),
+  enrollStatus: require('./models/enrollStatus')
 }
