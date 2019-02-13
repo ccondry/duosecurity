@@ -6,5 +6,5 @@ module.exports = {
   logo: require('./models/logo'),
   preauth: require('./models/preauth'),
   enroll: require('./models/enroll'),
-  enrollStatus: require('./models/enrollStatus')
+  enrollStatus: require('./models/enroll-status')
 }

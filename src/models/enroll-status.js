@@ -15,14 +15,14 @@ module.exports = function ({
   activationCode
 }) {
 
-  const url = '/auth/v2/enroll'
+  const url = '/auth/v2/enroll_status'
 
   const qs = {
     user_id: userId,
-    activaiton_code: activationCode
+    activation_code: activationCode
   }
 
-  const method = 'GET'
+  const method = 'POST'
 
   // return the request promise
   return request({
